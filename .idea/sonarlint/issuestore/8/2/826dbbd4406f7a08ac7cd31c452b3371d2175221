@@ -1,0 +1,13 @@
+
+¯
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8·Û³‚2J$9f5c8714-57fb-4a7d-8387-10b627cd70b1
+r	java:S106"+Replace this use of System.out by a logger.(É¥ë”şÿÿÿÿ8·Û³‚2J$066085f7-eb96-4311-8b8d-4d11c8e01ce0
+~	java:S125"<This block of commented-out lines of code should be removed.(ø¢°‡8¸Û³‚2J$997a5097-d01a-4c90-af86-2a8c4b468eb7
+Š
+java:S1128"HRemove this unused import 'net.bytebuddy.matcher.ElementMatchers.named'.(å¨Ë%8¸Û³‚2J$bd53e017-d9ee-4f18-93f0-6730d65cd785
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8¸Û³‚2J$76feac69-c87b-4746-9c49-79c1ec67aead
+w
+java:S1128"4Remove this unused import 'net.bytebuddy.ByteBuddy'.(öÅâ8¸Û³‚2J$8ae489ae-8dac-4cca-b469-65946f328536
+‡
+java:S1128"DRemove this unused import 'net.bytebuddy.implementation.FixedValue'.(Í¹¬ê8¸Û³‚2J$080c8da2-11e5-4f3d-a191-10637378912d

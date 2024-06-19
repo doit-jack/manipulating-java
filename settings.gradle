@@ -1,0 +1,4 @@
+rootProject.name = 'javamagic'
+include 'bytebuddy'
+include 'javaagent'
+
